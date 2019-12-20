@@ -1,5 +1,7 @@
 {
   "name": "rails-longest-word-game",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "serialize-javascript": "^2.1.2"
+  }
 }
